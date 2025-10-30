@@ -1,7 +1,5 @@
 ## Hello World, I'm Dhruv 👋
 
-**Fullstack Developer, Application Security Enthusiast.**
-
 🌐 [bio.dhruv.tech](https://bio.dhruv.tech) | 
 🔗 [LinkedIn](https://linkedin.com/in/dhruvmalik) | 
 📨 email@dhruv.tech
